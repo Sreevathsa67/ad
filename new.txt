@@ -1,2 +1,7 @@
 hello
+<<<<<<< HEAD
 ullas
+=======
+vathsa
+>>>>>>> feet1
+suraj
